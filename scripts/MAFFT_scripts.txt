@@ -1,0 +1,5 @@
+## MAFFT aligning the precursor BDNF sequences
+mafft bdnf_precursor_unaligned.fasta > msa_bdnf_precursor.fasta
+
+## MAFFT aligning the neurotrophin family sequences
+mafft NT_unaligned.fasta > msa_NT_aligned.fasta
