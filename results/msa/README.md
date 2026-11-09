@@ -1,6 +1,12 @@
 # results/msa/
+Sequences from a variety of organisms were aligned using MAFFT, FASTA files and JalView PNGs presented here.
 
-Multiple sequence alignment for Step 5.
+|File name|File Description|
+|-----|-----|
+|`msa_bdnf_precursor.fasta`|MSA of the full precursor BDNF protein in 20 identified species along with the two candidate BDNF genes|
+|`msa_bdnf_precursor.png`|JalView PNG of the precursor MSA showing conserved regions|
+|`msa_bdnf_mature.fasta`|MSA of the mature BDNF protein in 20 identified species along with the two candidate BDNF genes|
+|`msa_bdnf_mature.png`|JalView PNG of the mature MSA showing conserved regions|
+|`msa_NT_aligned.fasta`|MSA of BDNF, NT3, NT4, and NGF in four species as well as the two novel BDNF candidates|
+|`msa_NT_aligned.png`|JalView PNG of the precursor MSA showing conserved regions|
 
-- `msa_<tool>.aln` or `msa_<tool>.fasta`: the alignment file
-- `msa_<tool>.png`: alignment image with conserved regions visible
