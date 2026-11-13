@@ -1,0 +1,33 @@
+## this trims the aligned precursor BDNF sequences into the mature BDNF sequence, based on the human mature sequence bases 129-247
+
+seqkit seq -w 0 msa_bdnf_precursor.fasta | awk '
+/^>/ {
+    n++
+    headers[n] = $0
+    next
+}
+{
+    seq[n] = seq[n] $0
+}
+END {
+    for (i = 1; i <= n; i++) {
+        if (headers[i] ~ /Human/) {
+            count = 0
+            for (j = 1; j <= length(seq[i]); j++) {
+                if (substr(seq[i], j, 1) != "-") count++
+                if (count == 129 && !start) start = j
+                if (count == 247) { end = j; break }
+            }
+        }
+    }
+
+    if (!start || !end) {
+        print "Could not find human mature BDNF boundaries" > "/dev/stderr"
+        exit 1
+    }
+
+    for (i = 1; i <= n; i++) {
+        print headers[i]
+        print substr(seq[i], start, end - start + 1)
+    }
+}' > msa_bdnf_mature.fasta
