@@ -45,8 +45,8 @@ This project aimed to identify the gene Brain Derived Neurotrophic Factor (BDNF)
 | 2 | Search for a candidate novel gene | tBLASTn against WGS or TSA | `results/blast/` |
 | 3 | Retrieve and translate the ORF | GenBank record, ORF translation | `data/` |
 | 4 | Confirm novelty | BLASTp against nr | `results/blast/` |
-| 5 | Multiple sequence alignment | [Clustal Omega, MUSCLE, MAFFT, or T-Coffee] | `results/msa/` |
-| 6 | Phylogenetic tree | [MEGA or IQ-TREE; method] | `results/tree/` |
+| 5 | Multiple sequence alignment | MAFFT | `results/msa/` |
+| 6 | Phylogenetic tree | MEGA; maximum likelihood, JTT | `results/tree/` |
 | 7 | Structure prediction and comparison | [AlphaFold, ColabFold, or SWISS-MODEL; Mol* or ChimeraX] | `results/structure/` |
 | 8 | Selection analysis (optional) | [HyPhy or PAML] | `results/selection/` |
 | 9 | Discussion | | `report/` |
