@@ -1,0 +1,5 @@
+##translates the maugean skate nucleotide fasta to amino acids
+transeq \
+    -sequence ref/novel_zearaja_maugeana_JCCJZE010001961.1-1890706-1891428_nuc.faa \
+    -outseq ref/novel_zearaja_maugeana_JCCJZE010001961.1-1890706-1891428.faa \
+    -frame -1
