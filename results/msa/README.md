@@ -1,5 +1,5 @@
 # results/msa/
-Sequences from a variety of organisms were aligned using MAFFT, FASTA files and JalView PNGs presented here.
+Sequences from a variety of organisms were aligned using MAFFT. FASTA files and JalView PNGs presented here.
 
 |File name|File Description|
 |-----|-----|
