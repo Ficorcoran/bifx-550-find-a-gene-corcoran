@@ -80,4 +80,27 @@ ChatGPT (OpenAI) was used to clarify bioinformatics concepts and tools, assist w
 
 ## References
 
-[Databases, tools, and papers used, with versions or access dates. Include the course template: BIFX-550 Find-a-Gene template, github.com/ravichas/bifx550-find-a-gene-template.]
+### Tools Used and Reference Proteins/Structures
+- UniProt Consortium. Neurotrophic factor BDNF precursor form (BDNF_HUMAN), UniProtKB accession P23560 [Internet]. UniProt; [cited 2026 Aug 28]. Available from: https://www.uniprot.org/uniprotkb/P23560/entry
+- Camacho C, Coulouris G, Avagyan V, Ma N, Papadopoulos J, Bealer K, et al. BLAST+: architecture and applications. BMC Bioinformatics. 2009;10:421. doi:10.1186/1471-2105-10-421.
+- Robinson RC, Radziejewski C, Spraggon G, Greenwald J, Kostura MR, Burtnick LD, et al. The structures of the neurotrophin 4 homodimer and the brain-derived neurotrophic factor/neurotrophin 4 heterodimer reveal a common Trk-binding site. Protein Sci. 1999;8(12):2589–2597. doi:10.1110/ps.8.12.2589.
+- Robinson RC, Radziejewski C, Stuart DI, Jones EY. Structure of the brain-derived neurotrophic factor/neurotrophin 3 heterodimer. Biochemistry. 1995;34(13):4139–4146. doi:10.1021/bi00013a001.
+- Rice P, Longden I, Bleasby A. EMBOSS: the European Molecular Biology Open Software Suite. Trends Genet. 2000;16(6):276–277. doi:10.1016/S0168-9525(00)02024-2.
+- Katoh K, Standley DM. MAFFT multiple sequence alignment software version 7: improvements in performance and usability. Mol Biol Evol. 2013;30(4):772–780. doi:10.1093/molbev/mst010.
+- Waterhouse AM, Procter JB, Martin DMA, Clamp M, Barton GJ. Jalview Version 2—a multiple sequence alignment editor and analysis workbench. Bioinformatics. 2009;25(9):1189–1191. doi:10.1093/bioinformatics/btp033.
+- Jones DT, Taylor WR, Thornton JM. The rapid generation of mutation data matrices from protein sequences. Comput Appl Biosci. 1992;8(3):275–282. doi:10.1093/bioinformatics/8.3.275.
+- Kumar S, Stecher G, Suleski M, Sanderford M, Sharma S, Tamura K. MEGA12: molecular evolutionary genetic analysis version 12 for adaptive and green computing. Mol Biol Evol. 2024;41(12):msae263. doi:10.1093/molbev/msae263.
+- Jumper J, Evans R, Pritzel A, Green T, Figurnov M, Ronneberger O, et al. Highly accurate protein structure prediction with AlphaFold. Nature. 2021;596(7873):583–589. doi:10.1038/s41586-021-03819-2.
+- Mirdita M, Schütze K, Moriwaki Y, Heo L, Ovchinnikov S, Steinegger M. ColabFold: making protein folding accessible to all. Nat Methods. 2022;19(6):679–682. doi:10.1038/s41592-022-01488-1.
+- Evans R, O'Neill M, Pritzel A, Antropova N, Senior A, Green T, et al. Protein complex prediction with AlphaFold-Multimer. bioRxiv [Preprint]. 2022. doi:10.1101/2021.10.04.463034.
+- Schrödinger, LLC. The PyMOL Molecular Graphics System [computer software]. Version 3.1.0. New York (NY): Schrödinger, LLC.
+
+### Report References
+- Bathina S, Das UN. Brain-derived neurotrophic factor and its clinical implications. Arch Med Sci. 2015;11(6):1164–1178. doi:10.5114/aoms.2015.56342. 
+- Murray PS, Holmes PV. An overview of brain-derived neurotrophic factor and implications for excitotoxic vulnerability in the hippocampus. Int J Pept. 2011;2011:654085. doi:10.1155/2011/654085. 
+- Hallböök F. Evolution of the vertebrate neurotrophin and Trk receptor gene families. Curr Opin Neurobiol. 1999;9(5):616–621. doi:10.1016/S0959-4388(99)00011-2. 
+- Shorey-Kendrick LE, Crosland BA, Schabel MC, Messaoudi I, Guo M, Drake MG, et al. Effects of maternal edible THC consumption on offspring lung growth and function in a rhesus macaque model. Am J Physiol Lung Cell Mol Physiol. 2025;328(3):L463–L477. doi:10.1152/ajplung.00360.2024. 
+- Spulber S, Rantamäki T, Nikkilä O, Castrén E, Weihe P, Grandjean P, et al. Effects of maternal smoking and exposure to methylmercury on brain-derived neurotrophic factor concentrations in umbilical cord serum. Toxicol Sci. 2010;117(2):263–269. doi:10.1093/toxsci/kfq216.
+
+
+*Course Template:* BIFX-550 Find-a-Gene template, github.com/ravichas/bifx550-find-a-gene-template
