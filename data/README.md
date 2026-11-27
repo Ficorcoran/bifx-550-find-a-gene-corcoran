@@ -1,6 +1,6 @@
 # data/
 
-Sequences in FASTA format, the inputs for every later step.
+All of the inputs for later steps, sequences in FASTA format or accession numbers.
 
 | File | Contents |
 |---|---|
