@@ -1,4 +1,4 @@
-# BDNF: Find-a-Gene analysis in Carcharhinus cautus and Zearja maugeana
+# BDNF: Find-a-Gene analysis in Carcharhinus cautus and Zearaja maugeana
 
 BIFX-550 Computational Functional Genomics, Hood College, Fall 2026
 Author: Fiona Corcoran (ficorcoran)
