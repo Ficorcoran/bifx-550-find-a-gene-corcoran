@@ -1,6 +1,6 @@
 # results/structure/
 
-Structure prediction and comparison for Step 7. Models folded using ColabFold with AlphaFold2-Multimer v3, folded as homodimeric structures. Colored by pLDDT and aligned with the human experimentally determined structure for BDNF PDB 1BND
+Structure prediction and comparison for Step 7. Models used mature region folded using ColabFold with AlphaFold2-Multimer v3, folded as homodimeric structures. Colored by pLDDT and aligned with the human experimentally determined structure for BDNF PDB 1BND
 
 |File name|File Description|
 |-----|-----|
