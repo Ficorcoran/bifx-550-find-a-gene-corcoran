@@ -11,10 +11,10 @@ All of the inputs for later steps, sequences in FASTA format or accession number
 | `novel_carcharhinus_cautus_OZ558480.1-122450059-122450808.faa` | Translated novel candidate, Maugean Skate (Step 3) |
 | `bdnf_precursor_unaligned.fasta` | All sequences used in the alignment for the precursor protein (Step 5) |
 | `NT_unaligned.fasta` | All sequences used in the alignment for the neurotrophin family (Step 5) |
-| `bdnf_mature_shark.fasta` | The mature region of the Nervous Shark BDNF for folding (step 7) |
-| `bdnf_mature_skate.fasta` | The mature region of the Maugean Skate BDNF for folding (step 7) |
+| `bdnf_mature_shark.fasta` | The mature region of the Nervous Shark BDNF for folding (Step 7) |
+| `bdnf_mature_skate.fasta` | The mature region of the Maugean Skate BDNF for folding (Step 7) |
 
-The sequences in `msa_input.fasta` with their accessions:
+The sequences in `bdnf_precursor_unaligned.fasta` with their accessions:
 
 | Sequence description | Scientific name | Common name | Accession or sequence ID |
 |---|---|---|---|
