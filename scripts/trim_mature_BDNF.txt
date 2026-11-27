@@ -1,4 +1,4 @@
-## this trims the aligned precursor BDNF sequences into the mature BDNF sequence, based on the human mature sequence bases 129-247
+## this trims the aligned precursor BDNF sequences into the mature BDNF sequence, based on the human mature sequence residues 129-247
 
 seqkit seq -w 0 msa_bdnf_precursor.fasta | awk '
 /^>/ {
