@@ -1,6 +1,6 @@
 # results/blast/
 
-BLAST output for Steps 2 and 4.
+BLAST output for Steps 2 and 4. BLOSUM 62, further parameters in /scripts
 |File name|File Description|
 |-----|-----|
 |`tblastn_wgs_zearaja_maugeana_hits.csv`|tBLASTn results for Zearaja maugeana using wgs(Step 2)|
